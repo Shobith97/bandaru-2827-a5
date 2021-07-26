@@ -1,9 +1,8 @@
+package ucf.assignments;
 /*
  * UCF COP3330 Summer 2021 Assignment 5 Solution
- * Copyright 2021 first_name last_name
+ * Copyright 2021 shobit bandaru
  */
-package ucf.assignments;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
